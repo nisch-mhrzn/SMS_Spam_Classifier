@@ -30,11 +30,11 @@ nltk.download('punkt')
 
 ## How to Run
 
-1. Ensure `vectorizerr.pkl` and `modell.pkl` are in the same directory as `app.py`.
+1. Ensure `vectorizerr.pkl` and `modell.pkl` are in the same directory as `SMS_SPAM.py`.
 2. Run the Streamlit app:
 
    ```bash
-   streamlit run app.py
+   streamlit run SMS_SPAM.py
    ```
 
 3. Open your web browser and go to the provided URL (usually `http://localhost:8501`).
